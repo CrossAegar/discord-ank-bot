@@ -1,0 +1,13 @@
+{
+  "name": "ANK BOT",
+  "version":"1.0.0",
+  "description":"",
+  "main": "index.js",
+  "author":"CrossAegar",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
